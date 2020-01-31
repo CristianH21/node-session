@@ -1,0 +1,5 @@
+info: Fri Jan 31 2020 15:55:29 GMT-0600 (GMT-06:00) - Token is invalid.
+error: cris@mail.com is trying to sign in with incorrect password
+error: cris@mail.com is trying to sign up and already exist in our database.
+2020-01-31T22:21:32.775Z error: cris@mail.com is trying to sign up and already exist in our database.
+2020-01-31T22:22:31.683Z info: tona@mail.com has been registered.
